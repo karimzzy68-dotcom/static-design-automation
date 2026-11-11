@@ -1,0 +1,43 @@
+{
+  "audience": "Replace with a specific buyer",
+  "goal": "Choose one primary job: acquisition, education, objection handling or offer conversion",
+  "awareness": "Replace with problem-aware, solution-aware or product-aware",
+  "angle": "Replace with one evidenced selling idea",
+  "product_category": "State what the product actually is",
+  "buyer_desire": "What does this buyer want beyond owning the product?",
+  "concept_family": "Choose a message/visual format appropriate to this idea",
+  "scene": "Describe a genuinely distinct scene; the identity photo does not lock the scene",
+  "creative_hypothesis": "Why this message and visual should motivate this buyer to click",
+  "primary_text": "Write the caption/primary ad copy that supports the image",
+  "reference_roles": {},
+  "headline": "Replace with exact headline",
+  "body": "",
+  "cta": "Replace with actual CTA",
+  "art_direction": "Specify photography, lighting, background, palette and typography",
+  "composition": "Specify focal point, product position, copy hierarchy and whitespace",
+  "reference_ids": [],
+  "evidence_ids": [],
+  "marketing_route": "direct or indirect",
+  "audience_insight": "Replace with the buyer's specific situation, belief or objection",
+  "core_promise": "Replace with one supportable reason to care",
+  "objection": "Replace with the one objection this concept addresses",
+  "proof_or_reason": "Replace with sourced evidence or an honest practical reason",
+  "offer_framing": "Replace with approved offer value, or explain why this indirect frame does not pitch an offer",
+  "curiosity_payoff": "Replace with the actual insight or immediate information promised by the hook",
+  "hook_candidates": [],
+  "hook_selection_reason": "Replace with why the chosen headline is stronger for this buyer and route",
+  "design_spec": {
+    "grid": "Replace with alignment anchors, margins and composition grid",
+    "typography": "Replace with type character, family, weights, scale and line-wrap direction",
+    "spacing": "Replace with spacing rhythm and optical adjustments",
+    "photo_direction": "Replace with lighting, crop, texture and human realism",
+    "product_integration": "Replace with scale, perspective, shadow and copy/image relationship",
+    "reference_analysis": "Replace with observations from the actual reference and brand adaptation",
+    "carousel_continuity": "Replace with series rules and slide job, or an authored standalone explanation"
+  },
+  "preflight_copy_review": {
+    "reviewer": "",
+    "scores": {"hook_strength": 0, "buyer_relevance": 0, "specificity": 0, "proof_match": 0, "route_fit": 0},
+    "notes": ""
+  }
+}

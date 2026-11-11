@@ -1,0 +1,24 @@
+{
+  "reviewer": "",
+  "visually_inspected": false,
+  "scores": {
+    "category_clarity": 0,
+    "buyer_motivation": 0,
+    "concept_distinctness": 0,
+    "message_match": 0,
+    "product_fidelity": 0,
+    "copy_accuracy": 0,
+    "claim_support": 0,
+    "readability": 0,
+    "art_direction": 0,
+    "artifact_free": 0,
+    "placement_fit": 0,
+    "designer_polish": 0,
+    "copy_strength": 0
+  },
+  "hard_failures": [],
+  "notes": "",
+  "reference_comparison": "",
+  "copy_review": "",
+  "marketing_route_review": ""
+}

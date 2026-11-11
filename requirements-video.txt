@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+opencv-python==5.0.0.93
+pillow==12.3.0
+imageio-ffmpeg==0.6.0
